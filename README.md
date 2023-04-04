@@ -29,7 +29,7 @@ Click on a stream to view it.
 License
 Streamy is licensed under the MIT license. See LICENSE for more information.
 
-You should customize this README file to fit your specific project and add any additional information that you think is relevant.
+
 
 
 
